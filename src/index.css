@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.text-outline {
+    @apply text-white;
+    -webkit-text-stroke: 0.5px #032C8A; /* Adds the text outline */
+  }
