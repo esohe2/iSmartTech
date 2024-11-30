@@ -4,7 +4,7 @@ export default function Services() {
   return (
     <div>
       {/* Hero Section */}
-      <div className="bg-[url('/iSmart/public/img/seruse.png')]  bg-cover bg-center h-64 md:h-80 rounded-lg shadow-sm shadow-black flex items-center justify-center lg:h-[300px] ">
+      <div className="bg-[url('/img/seruse.png')]  bg-cover bg-center h-64 md:h-80 rounded-lg shadow-sm shadow-black flex items-center justify-center lg:h-[300px] ">
         <p className="text-white text-outline text-3xl md:text-5xl lg:text-6xl font-medium text-center px-4">
           Our Services Includes
         </p>
@@ -76,7 +76,7 @@ export default function Services() {
         <div className="grid grid-cols-1 md:grid-cols-2 gap-6 justify-items-center pb-10">
           <img
             className="w-full h-40 md:h-56 lg:h-64 object-contain rounded-lg"
-            src="/iSmart/public/img/Product teardown-amico.svg"
+            src="/img/Product teardown-amico.svg"
             alt="pic of service"
           />
           <div>
@@ -105,7 +105,7 @@ export default function Services() {
           </div>
           <img
             className="w-full h-40 md:h-56 lg:h-64 object-contain rounded-lg"
-            src="/iSmart/public/img/Active Support-cuate.svg"
+            src="/img/Active Support-cuate.svg"
             alt="pic of service"
           />
         </div>
@@ -136,7 +136,7 @@ export default function Services() {
           <div className="text-white text-center">
             <div className="flex justify-center  mb-4 px-90 ">
               <img
-                src="/iSmart/public/img/Group 1logo.svg"
+                src="/img/Group 1logo.svg"
                 alt=""
                 className="h-10"
               />

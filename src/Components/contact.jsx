@@ -78,7 +78,7 @@ export default function Contact() {
   return (
     <div>
       {/* Hero Section */}
-      <div className="bg-[url('/iSmart/public/img/ameen-almayuf-OQ4tJVXMCYM-unsplash.jpg')] lg:h-[300px] bg-cover bg-center h-64 md:h-80 rounded-lg shadow-sm shadow-black flex items-center justify-center">
+      <div className="bg-[url('/img/ameen-almayuf-OQ4tJVXMCYM-unsplash.jpg')] lg:h-[300px] bg-cover bg-center h-64 md:h-80 rounded-lg shadow-sm shadow-black flex items-center justify-center">
         <p className="text-white text-3xl md:text-5xl lg:text-6xl font-medium text-center text-outline px-4">
           Our Contact Details
         </p>
@@ -90,7 +90,7 @@ export default function Contact() {
         <div className="grid justify-items-center shadow-md rounded-md p-6 hover:shadow-lg active:shadow-darkblue transition-shadow">
           <img
             className="w-10 h-10 mb-4"
-            src="/src/assets/img/location-dot-solid.svg"
+            src="/img/location-dot-solid.svg"
             alt="Address Icon"
           />
           <p className="text-xl md:text-2xl font-medium mb-2">Address</p>
@@ -109,7 +109,7 @@ export default function Contact() {
         <div className="grid justify-items-center shadow-md rounded-md p-6 hover:shadow-lg active:shadow-darkblue transition-shadow">
           <img
             className="w-10 h-10 mb-4"
-            src="/iSmart/public/img/envelope-solid.svg"
+            src="/img/envelope-solid.svg"
             alt="Email Icon"
           />
           <p className="text-xl md:text-2xl font-medium mb-2">Email</p>
@@ -125,7 +125,7 @@ export default function Contact() {
         <div className="grid justify-items-center shadow-md rounded-md p-6 hover:shadow-lg active:shadow-darkblue transition-shadow">
           <img
             className="w-10 h-10 mb-4"
-            src="/iSmart/public/img/phone-solid (1).svg"
+            src="/img/phone-solid (1).svg"
             alt="Phone Icon"
           />
           <p className="text-xl md:text-2xl font-medium mb-2">Call Us</p>
@@ -141,7 +141,7 @@ export default function Contact() {
         <div className="grid justify-items-center shadow-md rounded-md p-6 hover:shadow-lg active:shadow-darkblue transition-shadow">
           <img
             className="w-10 h-10 mb-4"
-            src="/iSmart/public/img/square-whatsapp-brands-solid.svg"
+            src="/img/square-whatsapp-brands-solid.svg"
             alt="WhatsApp Icon"
           />
           <p className="text-xl md:text-2xl font-medium mb-2">WhatsApp</p>
@@ -158,12 +158,12 @@ export default function Contact() {
 
       {/* FOOTER SECTION */}
 
-      <div className="bg-[url('/iSmart/public/img/Use.png')] bg-cover bg-center h-full rounded-lg py-7 ">
+      <div className="bg-[url('/img/Use.png')] bg-cover bg-center h-full rounded-lg py-7 ">
         <div className="grid grid-cols-1 lg:grid-cols-2 text-center lg:text-left py-10 px-6 md:px-10 lg:px-16">
           <div className="text-white text-center">
             <div className="flex justify-center  mb-4 px-90 ">
               <img
-                src="/iSmart/public/img/Group 1logo.svg"
+                src="/src/assets/img/Group 1logo.svg"
                 alt=""
                 className="h-10"
               />

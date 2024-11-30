@@ -42,7 +42,7 @@ export default function Header() {
       <div className="flex items-center space-x-4">
         <img
           className="h-10 w-auto"
-          src="/iSmart/public/img/Group 2logo.svg"
+          src="/img/Group 2logo.svg"
           alt="Logo"
         />
       </div>
@@ -79,7 +79,7 @@ export default function Header() {
           <li>
             <Link
               to="/"
-              className="text-primary hover:text-bblue transition-colors duration-200 text-lg font-semibold transform hover:scale-105"
+              className="text-primary hover:text-bblue transition-colors duration-200 text-lg font-xl transform hover:scale-105"
             >
               Home
             </Link>
@@ -87,7 +87,7 @@ export default function Header() {
           <li>
             <Link
               to="/services"
-              className="text-primary hover:text-bblue transition-colors duration-200 text-lg font-semibold transform hover:scale-105"
+              className="text-primary hover:text-bblue transition-colors duration-200 text-lg font-xl transform hover:scale-105"
             >
               Services
             </Link>
@@ -95,7 +95,7 @@ export default function Header() {
           <li>
             <Link
               to="/about"
-              className="text-primary hover:text-bblue transition-colors duration-200 text-lg font-semibold transform hover:scale-105"
+              className="text-primary hover:text-bblue transition-colors duration-200 text-lg font-xl transform hover:scale-105"
             >
               About
             </Link>
@@ -103,7 +103,7 @@ export default function Header() {
           <li>
             <Link
               to="/contact"
-              className="text-primary hover:text-bblue transition-colors duration-200 text-lg font-semibold transform hover:scale-105"
+              className="text-primary hover:text-bblue transition-colors duration-200 text-lg font-xl transform hover:scale-105"
             >
               Contact
             </Link>

@@ -1,4 +1,4 @@
- // import { Link } from "react-router-dom";
+// import { Link } from "react-router-dom";
 
 // export default function About() {
 //   return (
@@ -67,7 +67,7 @@ export default function About() {
   return (
     <div>
       {/* Hero Section */}
-      <div className="bg-[url('/iSmart\public\img\modern-stationary-collection-arrangement.jpg')] bg-cover bg-center h-64 md:h-80 rounded-lg shadow-sm shadow-black flex items-center justify-center lg:h-[300px]">
+      <div className="bg-[url('/img/modern-stationary-collection-arrangement.jpg')] bg-cover bg-center h-64 md:h-80 rounded-lg shadow-sm shadow-black flex items-center justify-center lg:h-[300px]">
         <p className="text-white text-outline text-3xl md:text-5xl lg:text-6xl font-medium text-center px-4">
           About iSmartTech
         </p>
@@ -117,7 +117,7 @@ export default function About() {
           {/* Image Section */}
           <div className="w-full md:w-1/2 flex justify-center">
             <img
-              src="/src/assets/img/seruse.png"
+              src="/img/seruse.png"
               alt="Construction site"
               className="w-full max-w-md md:max-w-lg lg:max-w-xl rounded-lg shadow-md"
             />
@@ -127,12 +127,12 @@ export default function About() {
 
       {/* FOOTER SECTION */}
 
-      <div className="bg-[url('/iSmart/public/img/Use.png')] bg-cover bg-center h-full rounded-lg py-7 ">
+      <div className="bg-[url('/img/Use.png')] bg-cover bg-center h-full rounded-lg py-7 ">
         <div className="grid grid-cols-1 lg:grid-cols-2 text-center lg:text-left py-10 px-6 md:px-10 lg:px-16">
           <div className="text-white text-center">
             <div className="flex justify-center  mb-4 px-90 ">
               <img
-                src="/src/assets/img/Group 1logo.svg"
+                src="/img/Group 1logo.svg"
                 alt=""
                 className="h-10"
               />
