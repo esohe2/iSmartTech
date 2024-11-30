@@ -131,17 +131,13 @@ export default function About() {
         <div className="grid grid-cols-1 lg:grid-cols-2 text-center lg:text-left py-10 px-6 md:px-10 lg:px-16">
           <div className="text-white text-center">
             <div className="flex justify-center  mb-4 px-90 ">
-              <img
-                src="/img/Group 1logo.svg"
-                alt=""
-                className="h-10"
-              />
+              <img src="/img/Group 1logo.svg" alt="" className="h-10" />
             </div>
-            <p>
+            <p className="pt-2">
               18a Arala street, Airport Rd, <br />
               opposite Keystone Bank, Benin City, Edo
             </p>
-            <p>+234 704 605 9363</p>
+            <p className="py-2">+234 704 605 9363</p>
             <p>amadinfestus@gmail.com</p>
           </div>
           <div className="text-white mt-8 lg:mt-0 text-center">
