@@ -149,7 +149,7 @@ export default function Contact() {
             href="https://wa.me/2347046059363"
             target="_blank"
             rel="noopener noreferrer"
-            className="text-sm md:text-lg text-blue-600 hover:underline"
+            className="text-sm md:text-lg text-blue-600 hover:underline text-center"
           >
             +234 704 605 9363 (click to send a message)
           </a>
@@ -162,11 +162,7 @@ export default function Contact() {
         <div className="grid grid-cols-1 lg:grid-cols-2 text-center lg:text-left py-10 px-6 md:px-10 lg:px-16">
           <div className="text-white text-center">
             <div className="flex justify-center  mb-4 px-90 ">
-              <img
-                src="/img/Group 1logo.svg"
-                alt=""
-                className="h-10"
-              />
+              <img src="/img/Group 1logo.svg" alt="" className="h-10" />
             </div>
             <p className="pt-2">
               18a Arala street, Airport Rd, <br />
