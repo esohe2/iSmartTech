@@ -42,7 +42,7 @@ export default function Header() {
       <div className="flex items-center space-x-4">
         <img
           className="h-10 w-auto"
-          src="/src/assets/img/Group 2logo.svg"
+          src="/iSmart/public/img/Group 2logo.svg"
           alt="Logo"
         />
       </div>

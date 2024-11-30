@@ -270,7 +270,7 @@ import { Link } from "react-router-dom";
 export default function Home() {
   return (
     <div>
-      <div className="grid lg:grid-cols-2 grid-cols-1 gap-6 justify-items-center bg-[url('/src/assets/img/homeb.jpg')] bg-cover bg-center rounded-lg px-4 md:px-4 lg:px-4 pt-5 lg:pt-10">
+      <div className="grid lg:grid-cols-2 grid-cols-1 gap-6 justify-items-center bg-[url('/iSmart/public/img/homeb.jpg')] bg-cover bg-center rounded-lg px-4 md:px-4 lg:px-4 pt-5 lg:pt-10">
         <div>
           <h2 className="text-4xl lg:text-6xl text-white px-6 md:px-10 lg:px-16 pt-6 md:pt-10 font-semibold">
             Is Your Device Acting Up?
@@ -377,7 +377,7 @@ export default function Home() {
 
       <div className="grid grid-cols-1 lg:grid-cols-2 gap-2 justify-items-center px-6 md:px-10 lg:px-16 py-5">
         <img
-          src="src/assets/img/Calling-rafikii.svg"
+          src="iSmart/public/img/Calling-rafikii.svg"
           alt=""
           className="w-full max-w-md"
         />
@@ -422,12 +422,12 @@ export default function Home() {
 
       {/* FOOTER SECTION */}
 
-      <div className="bg-[url('/src/assets/img/Use.png')] bg-cover bg-center h-full rounded-lg py-7 ">
+      <div className="bg-[url('/iSmart/public/img/Use.png')] bg-cover bg-center h-full rounded-lg py-7 ">
         <div className="grid grid-cols-1 lg:grid-cols-2 text-center lg:text-left py-10 px-6 md:px-10 lg:px-16">
           <div className="text-white text-center">
             <div className="flex justify-center  mb-4 px-90 ">
               <img
-                src="/src/assets/img/Group 1logo.svg"
+                src="/iSmart/public/img/Group 1logo.svg"
                 alt=""
                 className="h-10"
               />
